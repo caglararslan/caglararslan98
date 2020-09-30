@@ -1,0 +1,27 @@
+{
+  "name": "caglararslan98",
+  "version": "1.0.0",
+  "description": "Bu bir deneme dosyasıdır",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "caglar": "echo 'Benim Adım Çağlar'"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Çağlar Arslan",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "mongoose": "^5.10.7",
+    "nodemailer": "^6.4.12",
+    "simple-is": "^0.2.0",
+    "webpack": "^4.44.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caglararslan/caglararslan98.git"
+  }
+}
